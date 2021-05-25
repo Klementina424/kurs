@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\HomeUser\Desktop\Ford_and_Fulkerson_lab4.4-master\Ford_and_Fulkerson_lab\Ford_and_Fulkerson_lab\FordFulkerson.h(65,7): warning C4101: buf1: неиспользованная локальная переменная
+C:\Users\HomeUser\Desktop\Ford_and_Fulkerson_lab4.4-master\Ford_and_Fulkerson_lab\Ford_and_Fulkerson_lab\FordFulkerson.h(65,13): warning C4101: buf2: неиспользованная локальная переменная
+  Ford_and_Fulkerson_lab.vcxproj -> C:\Users\HomeUser\Desktop\Ford_and_Fulkerson_lab4.4-master\Ford_and_Fulkerson_lab\Debug\Ford_and_Fulkerson_lab.exe
