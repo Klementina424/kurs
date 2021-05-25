@@ -1,4 +1,0 @@
-﻿  Ford_test.cpp
-C:\Users\HomeUser\Desktop\Ford_and_Fulkerson_lab4.4-master\Ford_and_Fulkerson_lab\Ford_and_Fulkerson_lab\FordFulkerson.cpp(112,6): warning C4101: bufVe: неиспользованная локальная переменная
-C:\Users\HomeUser\Desktop\Ford_and_Fulkerson_lab4.4-master\Ford_and_Fulkerson_lab\Ford_and_Fulkerson_lab\FordFulkerson.cpp(112,13): warning C4101: bufPrice: неиспользованная локальная переменная
-  Ford_test.vcxproj -> C:\Users\HomeUser\Desktop\Ford_and_Fulkerson_lab4.4-master\Ford_and_Fulkerson_lab\Debug\Ford_test.dll
